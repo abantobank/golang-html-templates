@@ -1,8 +1,10 @@
 # Golang HTML Templates
 # install git
-# git clone clone abantobank/golang-html-templates.git
-# cd golang-html-templates
-# go run main.go
+ git clone abantobank/golang-html-templates.git
+ 
+ cd golang-html-templates
+ 
+ go run main.go
 ## Introduction
 
 Go’s html/template package provides a rich templating language for HTML templates. It is mostly used in web applications to display data in a structured way in a client’s browser. One great benefit of Go’s templating language is the automatic escaping of data. There is no need to worry about XSS attacks as Go parses the HTML template and escapes all inputs before displaying it to the browser.
