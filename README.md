@@ -1,7 +1,7 @@
 # Golang HTML Templates
 # install git
-git clone 
-cd 
+git clone clone abantobank/golang-html-templates.git
+cd golang-html-templates
 go run main.go
 ## Introduction
 
